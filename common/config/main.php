@@ -12,8 +12,6 @@ return [
 			'class' => 'dektrium\user\Module',
 			'enableUnconfirmedLogin' => TRUE,
 			'admins' => ['admin']	
-
-
 		],
 	],
 ];
